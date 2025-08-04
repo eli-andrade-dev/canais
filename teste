@@ -1,0 +1,36 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⭐ 4K",A&E 4K
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230933.m3u8
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E FHD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⏩ FILMES & SERIES",A&E FHD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230934.m3u8
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E HD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⏩ FILMES & SERIES",A&E HD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230935.m3u8
+#EXTINF:-1 tvg-id="AE.br" tvg-name="A&E SD" tvg-logo="https://img.hotice.site/icones_channels/A&E.png" group-title="⏩ FILMES & SERIES",A&E SD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGENDA ESPORTIVA" tvg-logo="https://agendaesportiva.com.br/lib/img/portal/logo/6/icone-titulo-branco.png" group-title="⚽ AGENDA ESPORTIVA",AGENDA ESPORTIVA
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230939.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="⭐ AGRO NEGOCIOS",AGROMAIS FHD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230940.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS HD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="⭐ AGRO NEGOCIOS",AGROMAIS HD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230941.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS SD" tvg-logo="https://img.hotice.site/icones_channels/AgroMais.png" group-title="⭐ AGRO NEGOCIOS",AGROMAIS SD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230942.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⏩ FILMES & SERIES",AMC FHD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230943.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD 4K" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⭐ 4K",AMC FHD 4K
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230944.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC HD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⏩ FILMES & SERIES",AMC HD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230945.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC SD" tvg-logo="https://img.hotice.site/icones_channels/AMC_HD.png" group-title="⏩ FILMES & SERIES",AMC SD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230946.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⭐ 4K",ANIMAL PLANET 4K
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230947.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⏩ DOCUMENTARIOS",ANIMAL PLANET FHD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230948.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⏩ DOCUMENTARIOS",ANIMAL PLANET HD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230949.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://img.hotice.site/icones_channels/Animal_Planet_HD.png" group-title="⏩ DOCUMENTARIOS",ANIMAL PLANET SD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230950.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://img.hotice.site/icones_channels/Arte_1_HD.png" group-title="⏩ DOCUMENTARIOS",ARTE 1 FHD
+http://rufhsdhriodjhegdjuiosgrtyuhjsd.vela2b.sbs:80/edmilsonvass22/872816376/4230951.m3u8
